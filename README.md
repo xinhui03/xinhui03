@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xin Hui</h1>
-<h3 align="center">A passionate frontend developer from Johor</h3>
+<h3 align="center">A software engineering student from Johor</h3>
 
 - 📫 How to reach me **xinhuilee3@gmail.com**
 
